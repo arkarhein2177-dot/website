@@ -282,6 +282,7 @@ footer {
      color: #f0f0f0;
 }
 
+/* login */
 .login{
    
       margin: auto;
@@ -322,4 +323,7 @@ footer {
 }
 .checkbox{
      margin: 10px;
+}
+.ca{
+     color: rgb(245, 48, 9);
 }
